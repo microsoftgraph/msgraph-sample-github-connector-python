@@ -40,7 +40,7 @@ The Microsoft Graph connector experiences that will be enabled in the sample inc
     - **Supported account types**: **Accounts in this organizational directory only**
     - **Redirect URI**: Leave blank
 
-1. On the GitHub Connector **overview page**, copy the values of **Application (client) ID**. You will need both in the following section.
+1. On the GitHub Connector **overview page**, copy the values of **Application (client) ID** and **Directory (tenant) ID**. You will need both in the following section.
 
 ## Run the application
 
@@ -49,7 +49,7 @@ The Microsoft Graph connector experiences that will be enabled in the sample inc
     python3 -m pip install azure-identity
     python3 -m pip install msgraph-sdk
     ```
-1. Select **config.sfg** from the project root and replace `clientId` with your **Application (client) ID**.
+1. Select **config.sfg** from the project root, replace `<your-client-id>` with your **Application (client) ID** and replace `<your-tenant-id>` with your **Directory (tenant) ID**.
 1. Run the app:
     ```bash
     python3 main.py
