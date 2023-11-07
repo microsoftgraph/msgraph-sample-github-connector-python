@@ -6,7 +6,7 @@ products:
 - microsoft-graph-connectors-api
 - github
 languages:
-- typescript
+- python
 ---
 
 # Microsoft Graph Python GitHub connector sample
