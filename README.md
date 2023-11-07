@@ -11,6 +11,8 @@ languages:
 
 # Microsoft Graph Python GitHub connector sample
 
+![License.](https://img.shields.io/badge/license-MIT-green.svg)
+
 Microsoft Graph connectors let you add your own data to the semantic search index and have it power various Microsoft 365 experiences. This TypeScript application shows you how to use the [Microsoft Graph connector](https://learn.microsoft.com/graph/connecting-external-content-connectors-overview) API to create a custom connector that indexes issues and repositories from GitHub. This connector sample powers experiences such as Microsoft Search, Copilot in Teams, the Microsoft 365 App, and more.
 
 ## Experiences
