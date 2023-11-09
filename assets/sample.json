@@ -1,0 +1,60 @@
+[
+    {
+      "name": "msgraph-sample-github-graph-connector-python",
+      "source": "microsoftgraph",
+      "title": "Ingest GitHub repositories and issues using Python",
+      "shortDescription": "This sample contains a Microsoft Graph connector that shows how to ingest GitHub repositories. The ingested content is set to be visible to everyone in the organization.",
+      "url": "https://github.com/microsoftgraph/msgraph-sample-github-connector-python",
+      "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/microsoftgraph/msgraph-sample-github-connector-python",
+      "longDescription": [
+        "This sample contains a Microsoft Graph connector that shows how to ingest GitHub repositories. The ingested content is set to be visible to everyone in the organization."
+      ],
+      "creationDateTime": "2023-11-08",
+      "updateDateTime": "2023-11-08",
+      "products": [
+        "Microsoft Graph connectors",
+        "Microsoft Graph",
+        "Microsoft 365 Copilot"
+      ],
+      "metadata": [
+        {
+          "key": "PLATFORM",
+          "value": "Python"
+        },
+        {
+          "key": "LANGUAGE",
+          "value": "Python"
+        },
+        {
+          "key": "SEARCH-RESULTS-CARD",
+          "value": "Yes"
+        },
+        {
+          "key": "TEAMS-PACKAGE",
+          "value": "No"
+        }
+      ],
+      "thumbnails": [
+        {
+          "type": "image",
+          "order": 100,
+          "url": "https://github.com/microsoftgraph/msgraph-sample-github-connector-python/raw/main/assets/repos.png",
+          "alt": "GitHub repositories displayed in Microsoft Search search results, visualized using a custom Adaptive Card"
+        }
+      ],
+      "authors": [
+        {
+          "gitHubAccount": "aycabas",
+          "pictureUrl": "https://github.com/aycabas.png",
+          "name": "Ayca Bas"
+        }
+      ],
+      "references": [
+        {
+          "name": "Microsoft Graph connectors overview",
+          "description": "Learn more what Microsoft Graph connectors are and when you'd use them.",
+          "url": "https://learn.microsoft.com/graph/connecting-external-content-connectors-overview"
+        }
+      ]
+    }
+  ]
