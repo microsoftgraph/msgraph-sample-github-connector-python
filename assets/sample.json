@@ -5,7 +5,7 @@
       "title": "Ingest GitHub repositories and issues using Python",
       "shortDescription": "This sample contains a Microsoft Graph connector that shows how to ingest GitHub repositories. The ingested content is set to be visible to everyone in the organization.",
       "url": "https://github.com/microsoftgraph/msgraph-sample-github-connector-python",
-      "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/microsoftgraph/msgraph-sample-github-connector-python",
+      "downloadUrl": "https://pnp.github.io/download-partial/?url=https://github.com/microsoftgraph/msgraph-sample-github-connector-python/tree/main",
       "longDescription": [
         "This sample contains a Microsoft Graph connector that shows how to ingest GitHub repositories. The ingested content is set to be visible to everyone in the organization."
       ],
