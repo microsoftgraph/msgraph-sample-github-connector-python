@@ -3,8 +3,8 @@ page_type: sample
 description: This sample demonstrates how to use the Microsoft Graph connector API to create a custom connector that indexes issues and repositories from GitHub.
 products:
 - ms-graph
-- microsoft-graph-connectors-api
 - github
+- copilot-m365
 languages:
 - python
 ---
